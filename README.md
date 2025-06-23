@@ -21,12 +21,3 @@ A full-stack web application for booking doctor appointments with user, admin, a
 - 💻 Frontend interface with smooth UI
 
 ---
-
-## ⚙️ How to Run
-
-### 1️⃣ Backend
-
-```bash
-cd backend
-npm install
-npm run server
