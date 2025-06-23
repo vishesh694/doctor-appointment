@@ -1,12 +1,12 @@
 # 🩺 Doctor Appointment App
 
-A simple full-stack web application to book doctor appointments, with user and admin panels.
+A full-stack web application for booking doctor appointments with user, admin, and frontend interfaces.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React, TailwindCSS  
+- **Frontend:** React, TailwindCSS, React Router, Axios  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB
 
@@ -14,10 +14,11 @@ A simple full-stack web application to book doctor appointments, with user and a
 
 ## 📦 Features
 
-- User signup/login
-- View doctors by specialization
-- Book or cancel appointments
-- Admin panel to manage doctors
+- 🧑 User signup/login
+- 🧑‍⚕️ View doctors by specialization
+- 📅 Book or cancel appointments
+- 🧑‍💼 Admin panel to manage doctors
+- 💻 Frontend interface with smooth UI
 
 ---
 
@@ -27,12 +28,5 @@ A simple full-stack web application to book doctor appointments, with user and a
 
 ```bash
 cd backend
-npm install
-npm run server
-
-### 1️⃣ Frontend
-
-```bash
-cd rontend
 npm install
 npm run server
